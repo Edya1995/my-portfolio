@@ -1,12 +1,21 @@
-{"printWidth" : 100,
-"tabWidth" : 2,
-"useTabs" : false,
-"semi" : true,
-"singleQuote" : true,
-"trailingComma" : "es5",
-"bracketSpacing" : true,
-"jaxBracketSameline" : false,
-"arrowParens" :"avoid",
-"proseWrap" : "always",
-"htmlWhitespaceSensativity" : "strict"
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "editor.autoIndent": "full",
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.indentation": true,
+  "editor.renderWhitespace": "selection",
+
+  "editor.minimap.enabled": true,
+  "editor.stickyScroll.enabled": true,
+
+  "html.autoClosingTags": true,
+  "editor.linkedEditing": true
 }
