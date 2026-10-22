@@ -3,16 +3,16 @@ font-family: "Inter", sans-serif;}
 
 /* Header Section */
 .Header_Section{
-
+background-color: #06101C;
 }
 .header_nav{
 
 }
 .header_nav_logo_main{
-
+color: #F2F7FC;
 }
 .header_nav_logo_second{
-
+color: #55B8FF;
 }
 .header_nav_menu{
 
@@ -21,35 +21,44 @@ font-family: "Inter", sans-serif;}
 
 }
 .header_nav_text{
-
+color: #A5B6CA;
 }
 .header_nav_button_main{
-
+}
+.header_nav_button{
+background-color: #0A1B2C;
+color: #F2F7FC;
+border-color: #55B8FF;
+border-radius: 5px;
+font-weight: 400
 }
 .header_nav_button_second{
   
 }
 /* Hero Section */
 .Hero_Section{
-
+background-color: #071525;
 }
 .hero_container{
 
 }
 .hero_eyebrow{
-
+font-weight: 700;
+color: #55B8FF;
 }
 .hero_name_main{
-
+font-weight: 700;
+color: #F2F7FC;
 }
 .hero_name_second{
-
+font-weight: 700;
+color: #55B8FF;
 }
 .hero_role{
-
+color: #F2F7FC;
 }
 .hero_description{
-
+color: #A5B6CA;
 }
 .hero_actions{
 
